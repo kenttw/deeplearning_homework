@@ -4,3 +4,4 @@
 * Homework1-muki
  * 失敗的作品 : https://github.com/texib/deeplearning_homework/blob/master/muki.ipynb 
  * 成功的作品 : https://github.com/texib/deeplearning_homework/blob/master/muki-batch.ipynb
+ * 完美版 : https://github.com/texib/deeplearning_homework/blob/master/muki-batch-keras-softmax.ipynb
