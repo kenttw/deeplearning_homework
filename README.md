@@ -2,7 +2,7 @@
 
 ## 一些基本知識
 * entropy
-
+* KL_Divergence
 
 ## muki 影像壓縮還原
 * 個人的 deep learning 學習筆記
