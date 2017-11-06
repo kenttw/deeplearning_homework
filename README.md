@@ -1,4 +1,9 @@
-# deeplearning_homework
+# Deep Learning 學習筆記
+
+## 一些基本知識
+* entropy
+* KL_Divergence
+
 ## muki 影像壓縮還原
 * 個人的 deep learning 學習筆記
 * 上課的教材來自<a href='http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html'>台大電機系李宏毅教授 (Hung-yi Lee)</a>
