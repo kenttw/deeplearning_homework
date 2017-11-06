@@ -1,7 +1,7 @@
 # Deep Learning 學習筆記
 
 ## 一些基本知識
-* entropy
+* entropy : https://github.com/texib/deeplearning_homework/blob/master/Entropy.ipynb
 * KL_Divergence
 
 ## muki 影像壓縮還原
@@ -15,4 +15,4 @@
  * scan function 介紹 : https://github.com/texib/deeplearning_homework/blob/master/theano-scan.ipynb
  
 ## unsupervised learning
-* PCA : ./PCAandAutoencoders.ipynb
+* PCA&AutoEncoder : https://github.com/texib/deeplearning_homework/blob/master/PCAandAutoencoders.ipynb
