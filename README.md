@@ -13,6 +13,9 @@
  * 完美版 : https://github.com/texib/deeplearning_homework/blob/master/muki-batch-keras-softmax.ipynb
 * RNN
  * scan function 介紹 : https://github.com/texib/deeplearning_homework/blob/master/theano-scan.ipynb
- 
+
+## Recurrent Neural Networks
+* LSTM 來預測隔日網站流量 : https://github.com/kenttw/deeplearning_homework/blob/master/Keras_LSTM2.ipynb
+
 ## unsupervised learning
 * PCA&AutoEncoder : https://github.com/texib/deeplearning_homework/blob/master/PCAandAutoencoders.ipynb
