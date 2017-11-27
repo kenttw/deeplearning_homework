@@ -4,6 +4,9 @@
 * entropy : https://github.com/texib/deeplearning_homework/blob/master/Entropy.ipynb
 * KL_Divergence
 
+## ProbabilisticGenerativeModel
+* https://github.com/kenttw/deeplearning_homework/blob/master/ProbabilisticGenerativeModel.ipynb
+
 ## 基本 Deep Learning
 * GradientDescent : https://github.com/kenttw/deeplearning_homework/blob/master/GradientDescent.ipynb
 
