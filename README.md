@@ -4,6 +4,13 @@
 * entropy : https://github.com/texib/deeplearning_homework/blob/master/Entropy.ipynb
 * KL_Divergence
 
+## Linear Regression
+* Simple Python Version :https://github.com/kenttw/deeplearning_homework/blob/master/GradientDescent.ipynb
+* Keras Version:https://github.com/kenttw/deeplearning_homework/blob/master/GradientDescent-Keras.ipynb
+* Tensorflow Version:https://github.com/kenttw/deeplearning_homework/blob/master/GradientDescent-Tensorflow.ipynb
+
+## Logistic Regression
+
 ## ProbabilisticGenerativeModel
 * https://github.com/kenttw/deeplearning_homework/blob/master/ProbabilisticGenerativeModel.ipynb
 
