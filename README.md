@@ -31,3 +31,6 @@
 
 ## Unsupervised Learning
 * PCA&AutoEncoder : https://github.com/texib/deeplearning_homework/blob/master/PCAandAutoencoders.ipynb
+
+# Tensorflow 工具面的東西
+* export model to tensorflow lite : https://github.com/kenttw/deeplearning_homework/blob/master/tensorflow-lite/export_model.ipynb
