@@ -1,17 +1,23 @@
 # Deep Learning 學習筆記
 
+* 上課的教材來自<a href='http://speech.ee.ntu.edu.tw/~tlkagk/courses.html'>台大電機系李宏毅教授 (Hung-yi Lee)</a>
+
+
 ## 一些基本知識
 * entropy : https://github.com/texib/deeplearning_homework/blob/master/Entropy.ipynb
 * KL_Divergence
 
+## Linear Regression
+* Simple Python Version :https://github.com/kenttw/deeplearning_homework/blob/master/GradientDescent.ipynb
+* Keras Version:https://github.com/kenttw/deeplearning_homework/blob/master/GradientDescent-Keras.ipynb
+* Tensorflow Version:https://github.com/kenttw/deeplearning_homework/blob/master/GradientDescent-Tensorflow.ipynb
+
+## Logistic Regression
+
 ## ProbabilisticGenerativeModel
 * https://github.com/kenttw/deeplearning_homework/blob/master/ProbabilisticGenerativeModel.ipynb
 
-## 基本 Deep Learning
-* GradientDescent : https://github.com/kenttw/deeplearning_homework/blob/master/GradientDescent.ipynb
-
 ## MiKu 影像壓縮還原
-* 個人的 deep learning 學習筆記
 * 上課的教材來自<a href='http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html'>台大電機系李宏毅教授 (Hung-yi Lee)</a>
 * Full Connect : Homework1-muki
  * 失敗的作品 : https://github.com/texib/deeplearning_homework/blob/master/muki.ipynb 
